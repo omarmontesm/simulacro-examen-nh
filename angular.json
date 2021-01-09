@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "openlibra-mvp"
+    }
+  },
+  "defaultProject": "openlibra-mvp",
+  "cli": {
+    "analytics": "057cc563-a540-466c-8d9f-eecc8c1460c5"
+  }
 }
